@@ -1,0 +1,533 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+h3{
+    font-family: 'Joan', serif;
+
+}
+/**********title**********/
+#title{
+    padding: 0% 10%;
+    background-color: #112B3C;
+    width: 100%;
+}
+hr{
+    border-style: none;
+    background-color: orangered;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.brand-logo, .home-logo {
+    color: #F66B0E;
+}
+
+
+#second-container{
+    padding: 2% 10%;
+    background-color: #112B3C;
+    color: #fff;
+}
+.auto{
+    text-align: right;
+}
+.sub-btn{
+    background-color: #F66B0E;
+}
+/**********heading***********/
+.big-heading {
+    font-family: 'Merriweather', serif;
+    padding: 260px 0 0 10%;
+    color: #F66B0E;
+    font-size: 90px;
+
+}
+.heading-p{
+    font-size: 32px;
+    padding: 0 0 0 10%;
+    font-weight: bold;
+}
+.small-heading{
+    color: #EFEFEF;
+    text-transform: capitalize;
+    font-family: 'Sacramento', cursive;
+    font-size: 32px;
+}
+
+.quote-heading{
+    color: #fff;
+}
+/**************showcase-image***********/
+#showcase{
+    background: url(../images/col11.jpg) no-repeat;
+    background-size: cover;
+    min-height: 600px;
+    color:#fff;
+    text-align: left;
+    text-transform: capitalize;
+    background-position: center;
+}
+#show2{
+    background: url(../images/show.jpg) no-repeat;
+    background-size: cover;
+    min-height: 600px;
+    color: #Fff;
+    text-align: left;
+    text-transform: capitalize;
+    background-position: center;
+}
+#show{
+    background: url(../images/show2.jpg) no-repeat;
+    background-size: cover;
+    min-height: 600px;
+    color: #Fff;
+    text-align: left;
+    text-transform: capitalize;
+    background-position: center;
+
+}
+    
+
+/**********servivcs1******|*(***/
+#services1{
+    background: url(../images/showcase.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    padding: 0 10%;
+}
+.services-logo{
+    color: #F66B0E;
+}
+.services-pp{
+    color: gray;
+}
+/**************com-services********/
+#com-services{
+    padding: 7% 10%;
+    text-align: center;
+
+}
+.services-heading{
+    padding:0 0 38px 0;
+}
+.com-ser{
+    padding-bottom: 32px;
+}
+.com-ser h4{
+    font-size: 20px;
+    padding: 16px 0 0px 0;
+}
+.com-ser p{
+    color: gray;
+}
+.ser-logo{
+    width: 95%;
+}
+
+/************ctaa***************/
+#ctaa{
+    text-align: center;
+}
+.ctaa-heading{
+    font-family: 'Joan', serif;
+
+}
+.bl{
+    padding: 7% 5%;
+    background-color: #205375;
+    color: #fff;
+    
+}
+.light{
+    background-color: #EFEFEF;
+    padding: 7% 5%;
+    
+
+
+}
+/*************testimonial****/
+#testimonial{
+    padding: 0 10%;
+
+}
+.first-box{
+    background-color: #112B3C;
+    background:url(../images/col1.jpg) no-repeat ;
+    background-size: cover;
+    background-clip: content-box;
+    height: 300px;
+}
+
+.second-box:hover{
+    background-color: #F66B0E;
+
+}
+
+.second-box{
+    background-color: #205375;
+    background-position: center;
+    background-size: contain;
+    background-clip: content-box;
+    height: 600px;
+    color: #fff;
+}
+.thid-box{
+    background-color: #F66B0E;
+    background: url(../images/fine.jpg) no-repeat;
+    background-size: cover;
+    background-position: left;
+    min-height: 400px;
+    height: 600px;
+}
+.thid{
+    background: url(../images/thid.jpg) no-repeat;
+    background-size: cover;
+    background-position: left;
+    min-height: 300px;
+    height: 600px;
+
+}
+.fouth-box{
+    background-color: #112B3C;
+    background: url(../images/c1.jpg) no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 400px;
+}
+.tes-heading{
+    padding: 10px;
+    text-align: center;
+    
+}
+.impo p{
+    padding: 20px;
+    text-align: center;
+}
+.tet-p{
+    padding: 5%;
+}
+
+/************cta***********/
+.logo-img{
+    width: 25%;
+}
+#cta{
+    padding: 10% 10%;
+    text-align: center;
+}
+#cta p{
+    color: gray;
+}
+.logo-heading{
+    padding: 3% 0 2% 0;
+    text-transform: capitalize;
+}
+/***********ideas**********/
+#ideas{
+    padding: 7% 10%;
+    background-color: #112B3C;
+    color: #F66B0E;
+    text-align: center;
+}
+#ideas h2{
+    font-size: 60px;
+}
+#services1{
+    padding: 7% 10%;
+    text-align: center;
+}
+.ser{
+    margin-bottom: 50px;
+}
+/************about**********/
+#about{
+    padding: 4% 10%;
+    text-align: center;
+    text-align: justify;
+    background: url(../images/showcase.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    text-transform: capitalize;
+}
+.title-page{
+    text-align: center;
+}
+.eddy-image{
+    width: 30%;
+    
+}
+.dark{
+    background-color: #205375;
+    height: 200px;
+    padding: 40px 20px;
+}
+.side-bar{
+    background-color: #F66B0E;
+    height: 300px;
+    padding-top: 32px;
+    text-align: center;
+    text-align: justify;
+}
+/**************quote***********/
+#quote{
+    background-color:#112B3C;
+    padding: 7% 10%;
+    text-align: center;
+}
+.for{
+    margin: 20px 0 20px 0;
+}
+/***********pricing*************/
+#pricing{
+    padding: 7% 10%;
+    text-align: center;
+}
+.card-header{
+    background-color: #205375;
+}
+.crd{
+    margin-bottom: 20px;
+}
+.card{
+}
+.sub1-btn1{
+    background-color: #205375;
+}
+/************footer*************/
+#footer{
+    padding: 7% 10%;
+    background-color:#112B3C;
+    color:#fff ;
+
+}
+.footer-head, .footer-l-head{
+    padding-bottom: 32px;
+}
+.foot-link{
+    text-decoration: none;
+    color: #F66B0E;
+}
+.footer-logo{
+    padding: 2% 3% 2% 0;
+    color: #F66B0E;
+}
+.copyright{
+    text-align: center;
+}
+@media  (max-width:600px) and (min-width:300px){
+    /****************showcase*********/
+    #showcase{
+        background: url(../images/col11.jpg) no-repeat;
+        background-size: cover;
+        min-height: 300px;
+        color:#fff;
+        text-align: center;
+        text-transform: capitalize;
+        background-position: center;
+    }
+
+#show2{
+
+    min-height: 300px;
+    
+}
+#show{
+
+    min-height: 300px;
+}
+.big-heading {
+    font-size: 32px;
+    padding: 100px 10%  0;
+    color: #F66B0E;
+    text-align: center;
+}
+.heading-p{
+    font-size: 16px;
+    text-align: center;
+    margin: 0;
+    
+/*************second-container**********/
+}
+.small-heading{
+    text-align: center;
+    padding: 16px 0 0;
+    font-family: 'Joan', serif;
+}
+
+.sub{
+    width: 250px;
+    margin: 10px 0  0;
+
+}
+
+/***************jjj******/
+/************ctaa*********/
+.ct{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+/************ctaa**********/
+.bl, .light{
+    padding: 5% 10%;
+}
+/***********ideas**********/
+.ida{
+    margin-bottom: 50px;
+}
+/***********testimonial*******/
+.fouth-box{
+    display: none;
+}
+/******services1************/
+#services1{
+    background: #fff;
+    color: black;
+}
+/*************second-container***/
+#second-container{
+    padding-bottom: 32px;
+}
+}
+.second-box{
+    background-color: #1e2124;
+    height: 400px;
+    
+}
+.thid-box, .fouth-box{
+    background-clip: content-box;
+    height: 400px;
+}
+
+
+.dark{
+    background-color: #205375;
+    height: 350px;
+}
+@media (max-width:1200px) and (min-width:700px){
+    #title{
+        padding: 3% 5%;
+    }
+
+    
+    .big-heading {
+        font-family: 'Merriweather', serif;
+        padding: 180px 70px 0;
+        color: #F66B0E;
+        font-size: 70px;
+    
+    }
+    .heading-p{
+        margin: 0;
+        margin-bottom: 0;
+    }
+        
+    
+    
+    .small-heading{
+        color: #EFEFEF;
+        text-transform: capitalize;
+        font-family: 'Sacramento', cursive;
+        font-size: 32px;
+        text-align: left;
+     }
+    
+    /***********cta************/
+    .bl{
+        height: 300px;
+        padding: 5% 5%;
+    }
+    .light{
+        height: 300px;
+        padding: 5% 5%;
+    }
+    /*************second-container****/
+    #second-container{
+        padding: 2% 5%;
+    }
+    
+    
+    .sub, .subb{
+        width: 200px;
+        margin-top: 32px;
+     }
+        
+     /***********showcase**********/
+     #showcase{
+        
+        min-height: 550px;
+        color:#fff;
+        text-align: left;
+        
+        
+    }
+    #show2{
+    
+        min-height: 550px;
+        
+    }
+    #show{
+    
+        min-height: 550px;
+        
+    
+    }
+        
+    /*************testimonial****/
+#testimonial{
+    padding: 0 10%;
+
+}
+.first-box{
+    background-color: #112B3C;
+    background:url(../images/col1.jpg) no-repeat ;
+    background-size: cover;
+    background-clip: content-box;
+    height: 600px;
+}
+
+.second-box:hover{
+    background-color: #F66B0E;
+
+}
+
+.second-box{
+    
+    height: 800px;
+    color: #fff;
+}
+.thid-box{
+    
+    background-position: left;
+    height: 800px;
+}
+.fouth-box{
+    display: none;
+}
+.thid{
+    
+    height: 800px;
+    background-clip: content-box;
+}
+
+.tes-heading{
+    padding: 100px  0 0 0;
+    text-align: center;
+    font-size: 40px;
+    
+}
+.tet-p{
+    padding: 100px 5%;
+    text-align: center;
+    font-size: 32px;
+}
+/******************services**********/
+.ser111{
+    display: none;
+}
+
+
+}
